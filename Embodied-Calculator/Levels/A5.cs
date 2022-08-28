@@ -1,10 +1,5 @@
 ﻿using Embodied_Calculator.Materials;
 using Embodied_Calculator.transport;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Embodied_Calculator.Levels
 {
